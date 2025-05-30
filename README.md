@@ -38,7 +38,7 @@ A mini embedded system project to automate and manage load shedding schedules us
 
 ## 🔌 Circuit Diagram
 
-![Circuit Diagram](imaesg/circuit.png)
+![Circuit Diagram](images/circuit.png)
 
 ---
 
@@ -68,7 +68,7 @@ You can find the full source code here:
 
 ## 📸 Screenshot
 
-![System Screenshot](imaesg/screenshot.jpg)
+![System Screenshot](images/screenshot.jpg)
 
 ---
 
