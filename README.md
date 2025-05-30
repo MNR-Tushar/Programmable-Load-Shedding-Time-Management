@@ -36,6 +36,12 @@ A mini embedded system project to automate and manage load shedding schedules us
 
 ---
 
+## 🔌 Circuit Diagram
+
+![Circuit Diagram](imaesg/circuit.png)
+
+---
+
 ## ⚙️ Algorithm
 
 1. Initialize LCD, RTC, Keypad, LEDs.
@@ -62,9 +68,7 @@ You can find the full source code here:
 
 ## 📸 Screenshot
 
-![System Screenshot](images/screenshot.jpg)
-
-> Replace `images/screenshot.jpg` with your actual screenshot image path. Upload the image to your GitHub repo.
+![System Screenshot](imaesg/screenshot.jpg)
 
 ---
 
@@ -79,7 +83,7 @@ You can find the full source code here:
 
 ## 📄 Project Report
 
-Full report is available in the `docs/` folder: [Project_Report.pdf](docs/Project_Report.pdf)
+Full report is available in the `doc/` folder: [Project_Report.pdf](doc/Project_Report.pdf)
 
 ---
 
@@ -89,12 +93,6 @@ Full report is available in the `docs/` folder: [Project_Report.pdf](docs/Projec
 - Build mobile app for schedule setup.
 - Add logging and energy usage analytics.
 - Expand for multi-phase/grid scale management.
-
----
-
-## 📜 License
-
-MIT License *(optional)*
 
 ---
 
