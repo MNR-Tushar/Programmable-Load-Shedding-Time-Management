@@ -104,3 +104,8 @@ Full report is available in the `doc/` folder: [Project_Report.pdf](doc/Project_
 - Md. Arafat Hossain  
 
 **Supervisor:** Ms. Rimi Akter, Lecturer, DIU
+
+---
+We started this project in November 2024 and successfully completed 
+and submitted it by December 9, 2024 
+under the course CSE224 - Digital Logic Design Lab.
